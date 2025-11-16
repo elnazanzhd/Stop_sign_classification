@@ -9,7 +9,7 @@ You can test the model here:\
 **https://stop-sign-classification-691a22bef0852a2d8976aab2.22sqsnan6tta.eu-gb.codeengine.appdomain.cloud/**
 
 Upload an image of a traffic sign and the system returns whether it is a
-**stop sign** or **not a stop sign**, along with the confidence score.
+**stop sign** or **not a stop sign**.
 
 ## Project Summary
 
