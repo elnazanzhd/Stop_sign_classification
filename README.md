@@ -1,5 +1,8 @@
 # Stop Sign Classification
 
+![Stop
+Sign](https://i.etsystatic.com/34041246/r/il/cf5bc3/5756949358/il_fullxfull.5756949358_jhjc.jpg)
+
 This repository contains the link to my deployed Stop/Not-Stop image
 classification model.
 
@@ -32,3 +35,7 @@ as a web service using IBM Cloud Code Engine.
 -   Flask\
 -   IBM Cloud Code Engine
 
+## Notes
+
+This repository hosts the project link only.\
+The backend code and model weights are deployed remotely.
